@@ -1,4 +1,4 @@
 OTS-Boost
 =========
 
-Boost files for company projects
+Boost files for company projects. Original files from http://www.boost.org/
